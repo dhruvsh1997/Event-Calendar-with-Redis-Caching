@@ -1,0 +1,8 @@
+Django
+django-redis
+redis
+python-dateutil
+pytz
+
+#docker run -d -p 6379:6379 --name redis-server redis:alpine
+#docker exec -it redis-server redis-cli ping

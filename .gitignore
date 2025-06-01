@@ -1,0 +1,68 @@
+# Python/Django
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+envEvent/
+venv.bak/
+
+# Django-specific
+*.log
+applogging.log
+db.sqlite3
+*.sqlite3
+staticfiles/
+
+# Media files
+media/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+*.dockerignore
+
+# Cache and temporary files
+*.cache
+*.bak
+*.swp
+*~
+
+# Coverage and testing
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.tox/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Local development
+*.pid
+*.seed
+*.log.*
+
+# Redis data (if stored locally, unlikely with Docker)
+redis-data/
