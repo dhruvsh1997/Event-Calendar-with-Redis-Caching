@@ -1,7 +1,7 @@
 # Use official Python 3.11 slim image for a smaller footprint
 FROM python:3.11-slim
 
-# Set working directory
+# Set working directorys
 WORKDIR /app
 
 # Set environment variables
