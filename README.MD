@@ -18,7 +18,7 @@
 
 ## 📋 Overview
 
-This project implements a modern **Event Calendar web application** using Django, with a focus on **system design principles** and **performance optimization** through Redis caching. The application demonstrates how to build scalable web applications with efficient caching strategies, session management, and clean architecture.
+This project implement a modern **Event Calendar web application** using Django, with a focus on **system design principles** and **performance optimization** through Redis caching. The application demonstrates how to build scalable web applications with efficient caching strategies, session management, and clean architecture.
 
 ### 🎯 Learning Objectives
 
